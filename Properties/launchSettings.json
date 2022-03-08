@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Weber Lab API Examples": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
