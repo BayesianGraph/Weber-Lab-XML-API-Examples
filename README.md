@@ -5,9 +5,6 @@ To view all public API examples visit the Weber Lap Public API Repository hosted
 https://www.postman.com/weberlab/workspace/weber-lab-public-apis
 
 
-Open Source Repository for the Profiles Data API
-https://github.com/nicholaswilliambrown/ProfilesRNS/tree/master/Website/SourceCode/ProfilesDataAPI
-
 Public Harvard Catalyst Profiles RESTful XML endpoint
 
 https://connects.catalyst.harvard.edu/API/Profiles/Public/ProfilesDataAPI/
