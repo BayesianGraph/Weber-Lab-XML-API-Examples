@@ -75,7 +75,6 @@ public class WeberLabAPIService
     // private string endpoint = "https://connects.catalyst.harvard.edu/API/Profiles/Public/ProfilesDataAPI/getpeople/Institution/beth%20israel%20deaconess%20medical%20center/keyword/Myocardial Infarction/columns/all";
 
 
-
     private readonly IHttpClientFactory _httpClientFactory;
 
     public WeberLabAPIService(IHttpClientFactory httpClientFactory) =>
