@@ -35,7 +35,7 @@ try
 catch (Exception ex)
 {
     host.Services.GetRequiredService<ILogger<Program>>()
-        .LogError(ex, "Unable to load branches from GitHub.");
+        .LogError(ex, $"Unable to call API. {ex.Message}");
 }
 
 /// <summary>
